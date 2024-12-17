@@ -1,0 +1,7 @@
+[submodule "Thelio Io"]
+	path = Thelio Io
+	url = https://github.com/system76/thelio-io.git
+	branch = v1
+[submodule "Thelio Io v2"]
+	path = Thelio Io v2
+	url = https://github.com/system76/thelio-io.git
