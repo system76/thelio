@@ -1,48 +1,94 @@
-Design files available,Data sheet,Open source design or open standard,Description,Vendor,Vendor Part Number,Self-source vendor suggestion,thelio-b1,thelio-r1,thelio-major-b1,thelio-major-r1,thelio-massive-b1
----,---,---,---,---,---,---,---,---,---,---,---
-SYSTEM76,https://shop.ryerson.com/catalog/details/101116?qry=&did=88152aef-354b-4dd7-a1c4-a9671c8e1043,Y,Aluminum sheet metal,Ryerson,5052SH063X60X120,Xometry,Sq ft qty from STEP files,Sq ft qty from STEP files,Sq ft qty from STEP files,Sq ft qty from STEP files,Sq ft qty from STEP files
-SYSTEM76,,Y,Custom aluminum extrusions (requires dies),Richardson Metals,"E1 V2, E2 V2, E3 V2, E4 V4",3D Print,325.4mm L,325.4mm L,459.75mm L,459.75mm L,TBD
-SYSTEM76,,Y,Walnut veneer with 3M PSA backing,Lenderink Technologies,,Lenderink Technologies,Sq ft qty from STEP files,Sq ft qty from STEP files,Sq ft qty from STEP files,Sq ft qty from STEP files,Sq ft qty from STEP files
-SYSTEM76,,Y,Maple veneer  with 3M PSA backing,Lenderink Technologies,,Lenderink Technologies,Sq ft qty from STEP files,Sq ft qty from STEP files,Sq ft qty from STEP files,Sq ft qty from STEP files,Sq ft qty from STEP files
-N/A,Y,N,"1/4"" 3M VHB","Thomas G. Goldkamp, Inc.",5952,Amazon,325.4mm,325.4mm,459.75mm,459.75mm,TBD
-N/A,Y,N,"1/2"" 3M VHB","Thomas G. Goldkamp, Inc.",GPH-110,Special order. May not be necessary. Depends on the build process.,TBD,TBD,TBD,TBD,TBD
-N/A,Y,N,Prismatic sterling black powder,"NIC Industries, Inc.",UMB-1204,"NIC Industries, Inc.",lbs. TBD,lbs. TBD,lbs. TBD,lbs. TBD,lbs. TBD
-Y,,Y,M4 x 10MM standoff,"Dongguan Jinglong Metal Products Co.,Ltd",,McMaster-Carr,10,10,10,10,10
-?,,Y,M4 x 25MM screw,"Dongguan Jinglong Metal Products Co.,Ltd",,McMaster-Carr,4,4,0,0,0
-Y,,Y,M4 x.7 x 5 mm screw,"Dongguan Jinglong Metal Products Co.,Ltd",,McMaster-Carr,14,14,18,18,20
-Y,,Y,M3 x 10mm thumb screw,"Dongguan Jinglong Metal Products Co.,Ltd",,McMaster-Carr,10,10,13,13,13
-Y,,Y,M3 HD screws,"Dongguan Jinglong Metal Products Co.,Ltd",,McMaster-Carr,16,16,32,32,48
-Y,,?,HD screw gromets,"Dongguan Yuankang Silicone Products Co.,Ltd",,McMaster-Carr,16,16,32,32,48
-Y,,Y,10mm self tapping fan screw,"Dongguan Jinglong Metal Products Co.,Ltd",,Amazon,4,4,12,12,16
-Y,,?,15mm rubber case feet with m4 thread insert,"Dongguan Hanxiang Rubber Products Co., Ltd. ",,McMaster-Carr,4,4,0,0,0
-Y,,?,20mm rubber case feet with m4 thread insert,"Dongguan Hanxiang Rubber Products Co., Ltd. ",,McMaster-Carr,0,0,4,4,4
-Y,,Y,M4 x.7 x 5 mm feet screws,"Dongguan Jinglong Metal Products Co.,Ltd",,McMaster-Carr,4,4,4,4,4
-Determine and buy,,Y,M3 x 8mm drive cage screws,"Dongguan Jinglong Metal Products Co.,Ltd",,McMaster-Carr,4,4,8,8,12
-System76,,Y,Power button electrical external connection PCB,"Maoye Electrical Co.,LTD",,,1,1,1,1,1
-System76,,Y,Power button electrical internal connection PCB,"Maoye Electrical Co.,LTD",,,1,1,1,1,1
-Y,,Y,Steel m3 rivet nuts,"Shanghai Zhengjiang Fastener CO.,LTD ",,McMaster-Carr,14,14,20,20,20
-Y,,?,Power button w/ 19mm clearance hole,"Shenzhen Hongju Electronics Co.,Ltd",,Sparkfun?,1,1,1,1,1
-System76,,Y,Power button upper mount,"Guangzhou Engineering Plastics Industries (Group) Co., Ltd  ",,3D Print,1,1,1,1,1
-System76,,Y,Power buttons lower mount,"Guangzhou Engineering Plastics Industries (Group) Co., Ltd  ",,3D Print,1,1,1,1,1
-N/A,https://www.mcmaster.com/94180a353,Y,Power button mount heated threaded inserts,,,,,,,,
-System76,,Y,Thelio Io," WANFENG CIRCUIT CO., LTD",,Oshpark and Mouser,1,1,2,2,2
-System76,,Y,Thelio Io SAS," WANFENG CIRCUIT CO., LTD",,Oshpark and Mouser,0,0,0,0,1
-System76,,Y,2.15 dbi antennas,Dongguan Haonuo Electronic Co. Ltd,,Amazon,2,2,2,2,0
-N,https://www.gigabyte.com/Motherboard/B450-AORUS-PRO-WIFI-rev-10#kf,N,Gigabyte B450 I AORUS PRO WIFI,Gigabyte ,B450 I AORUS PRO WIFI,Amazon,1,0,0,0,0
-N,https://www.gigabyte.com/us/Motherboard/H370N-WIFI-rev-10#kf,N,Gigabyte H370N WiFi,Gigabyte ,H370N WiFi,Amazon,0,1,0,0,0
-N,https://www.gigabyte.com/Motherboard/X399-DESIGNARE-EX-rev-10#kf,N,Gigabyte X399 Designare EX,Gigabyte ,        X399 Designare EX,Amazon,0,0,0,1,0
-N,https://www.gigabyte.com/Motherboard/X299-AORUS-Ultra-Gaming-Pro-rev-10#kf,N,GIGABYTE X299 Ultra Gaming Pro,Gigabyte ,X299 Ultra Gaming Pro,Amazon,0,0,1,0,0
-N,https://www.asus.com/us/Commercial-Servers-Workstations/WS-C621E-SAGE/,N,Asus WS C621E SAGE,Asus,WS C621E SAGE,Amazon,0,0,0,0,1
-Y,,N,FSP Dagger 600W Power Supply,FSP,SDA600,Amazon,1,1,0,0,0
-Y,,Y,Custom cables power supply cables for SDA600,"Maoye Electrical Co.,LTD",,Amazon,1,1,0,0,0
-N,https://www.evga.com/Products/Product.aspx?pn=120-G2-1300-XR,N,EVGA 1300W 80 Plus Gold,EVGA ,120-G2-1300-XR,Amazon,0,0,1,1,0
-N,https://www.evga.com/Products/Product.aspx?pn=120-G2-1600-X1,N,EVGA SuperNOVA 1600 G2 80 Plus Gold,EVGA ,120-G2-1600-X1,Amazon,0,0,1 (optional),1 (optional),1
-N,https://www.arctic.ac/us_en/f14-pwm.html,N,Arctic Fan F14 PWM,Arctic,F14-PWM,Amazon,1,1,1,1,4
-N,https://www.arctic.ac/us_en/f12-pwm-pst.html,N,Arctic Fan F12 PWM PST,Arctic,F12 PWM PST,Amazon,0,0,2,2,0
-System76,,Y,140mm fan spacer,Laird Plastics,,,1,1,1,1,4
-System76,,Y,120mm fan spacer,Laird Plastics,,,0,0,2,2,0
-System76,,Y,Thelio acrylic wireless signal window,Laird Plastics,,,1,1,1,1,
-System76,,Y,Signal wiring Thelio,"Maoye Electrical Co.,LTD",,Hand made wires with wire and connectors from Amazon,1,1,0,0,0
-System76,,Y,Signal wiring Thelio Major,"Maoye Electrical Co.,LTD",,Hand made wires with wire and connectors from Amazon,0,0,1,1,0
-System76,,Y,Signal wiring Thelio Massive,"Maoye Electrical Co.,LTD",,Hand made wires with wire and connectors from Amazon,0,0,0,0,1
-System76,,Y,Thelio Major molex to dual floppy splitter (defined in Thelio Major signal wiring),"Maoye Electrical Co.,LTD",,Hand made wires with wire and connectors from Amazon,0,0,1,1,0
+Design files available,Data sheet,Open source design or open standard,Description,Vendor,Vendor Part Number,Self-source vendor suggestion,b,r,a,thelio,thelio-mira,thelio-major,thelio-mega,thelio-massive,thelio-spark,thelio-astra
+---,---,---,---,---,---,---,---,---,---,---,---,---,---,---,---,---
+SYSTEM76,https://shop.ryerson.com/catalog/details/101116?qry=&did=88152aef-354b-4dd7-a1c4-a9671c8e1043,Y,Aluminum sheet metal,Ryerson,5052SH063X60X120,Xometry,,,,Sq ft qty from STEP files,Sq ft qty from STEP files,Sq ft qty from STEP files,Sq ft qty from STEP files,Sq ft qty from STEP files,Sq ft qty from STEP files,Sq ft qty from STEP files
+SYSTEM76,,Y,Custom aluminum extrusions (requires dies),Richardson Metals,"E1 V2, E2 V2, E3 V2, E4 V4",3D Print,,,,325.4mm L,,459.75mm L,,TBD,,
+SYSTEM76,,Y,Walnut veneer with 3M PSA backing,Lenderink Technologies,,Lenderink Technologies,,,,Sq ft qty from STEP files,Sq ft qty from STEP files,Sq ft qty from STEP files,Sq ft qty from STEP files,Sq ft qty from STEP files,Sq ft qty from STEP files,Sq ft qty from STEP files
+SYSTEM76,,Y,Maple veneer  with 3M PSA backing,Lenderink Technologies,,Lenderink Technologies,,,,Sq ft qty from STEP files,Sq ft qty from STEP files,Sq ft qty from STEP files,Sq ft qty from STEP files,Sq ft qty from STEP files,Sq ft qty from STEP files,Sq ft qty from STEP files
+N/A,Y,N,"1/4"" 3M VHB","Thomas G. Goldkamp, Inc.",5952,Amazon,,,,325.4mm L,,459.75mm L,,TBD,,
+N/A,Y,N,"1/2"" 3M VHB","Thomas G. Goldkamp, Inc.",GPH-110,Special order. May not be necessary. Depends on the build process.,,,,TBD,TBD,TBD,TBD,TBD,,
+N/A,Y,N,Prismatic sterling black powder,"NIC Industries, Inc.",UMB-1204,"NIC Industries, Inc.",,,,lbs. TBD,lbs. TBD,lbs. TBD,lbs. TBD,lbs. TBD,lbs. TBD,lbs. TBD
+Y,,Y,M4 x 10MM standoff,"Dongguan Jinglong Metal Products Co.,Ltd",,McMaster-Carr,,,,10,10,10,10,10,10,10
+?,,Y,M4 x 25MM screw,"Dongguan Jinglong Metal Products Co.,Ltd",,McMaster-Carr,,,,4,4,0,0,0,0,0
+Y,,Y,M4 x.7 x 5 mm screw,"Dongguan Jinglong Metal Products Co.,Ltd",,McMaster-Carr,,,,14,14,18,18,20,,
+Y,,Y,M3 x 10mm thumb screw,"Dongguan Jinglong Metal Products Co.,Ltd",,McMaster-Carr,,,,10,10,13,13,13,,
+Y,,Y,M3 HD screws,"Dongguan Jinglong Metal Products Co.,Ltd",,McMaster-Carr,,,,16,16,32,32,48,,
+Y,,?,HD screw gromets,"Dongguan Yuankang Silicone Products Co.,Ltd",,McMaster-Carr,,,,16,16,32,32,48,,
+Y,,Y,10mm self tapping fan screw,"Dongguan Jinglong Metal Products Co.,Ltd",,Amazon,,,,4,4,12,12,16,,
+Y,,?,15mm rubber case feet with m4 thread insert,"Dongguan Hanxiang Rubber Products Co., Ltd. ",,McMaster-Carr,,,,4,4,0,0,0,4,4
+Y,,?,20mm rubber case feet with m4 thread insert,"Dongguan Hanxiang Rubber Products Co., Ltd. ",,McMaster-Carr,,,,0,0,4,4,4,0,0
+Y,,Y,M4 x.7 x 5 mm feet screws,"Dongguan Jinglong Metal Products Co.,Ltd",,McMaster-Carr,,,,4,4,4,4,4,4,4
+Determine and buy,,Y,M3 x 8mm drive cage screws,"Dongguan Jinglong Metal Products Co.,Ltd",,McMaster-Carr,,,,4,4,8,8,12,,
+System76,,Y,Power button electrical external connection PCB,"Maoye Electrical Co.,LTD",,,,,,1,1,1,1,1,,
+System76,,Y,Power button electrical internal connection PCB,"Maoye Electrical Co.,LTD",,,,,,1,1,1,1,1,,
+Y,,Y,Steel m3 rivet nuts,"Shanghai Zhengjiang Fastener CO.,LTD ",,McMaster-Carr,,,,14,14,20,20,20,,
+Y,,?,Power button w/ 19mm clearance hole,"Shenzhen Hongju Electronics Co.,Ltd",,Sparkfun?,,,,1,1,1,1,1,,
+System76,,Y,Power button upper mount,"Guangzhou Engineering Plastics Industries (Group) Co., Ltd  ",,3D Print,,,,1,1,1,1,1,,
+System76,,Y,Power buttons lower mount,"Guangzhou Engineering Plastics Industries (Group) Co., Ltd  ",,3D Print,,,,1,1,1,1,1,,
+N/A,https://www.mcmaster.com/94180a353,Y,Power button mount heated threaded inserts,,,,,,,,,,,,,
+System76,,Y,Thelio Io," WANFENG CIRCUIT CO., LTD",,Oshpark and Mouser,,,,1,1,2,2,2,,
+System76,,Y,Thelio Io SAS," WANFENG CIRCUIT CO., LTD",,Oshpark and Mouser,,,,0,0,0,0,1,,
+System76,,Y,2.15 dbi antennas,Dongguan Haonuo Electronic Co. Ltd,,Amazon,,,,2,2,2,2,0,,
+N,https://www.gigabyte.com/Motherboard/B450-AORUS-PRO-WIFI-rev-10#kf,N,Gigabyte B450 I AORUS PRO WIFI,Gigabyte,B450 I AORUS PRO WIFI,Amazon,,1,,1,0,0,0,0,0,0
+N,https://www.gigabyte.com/us/Motherboard/H370N-WIFI-rev-10#kf,N,Gigabyte H370N WiFi,Gigabyte,H370N WiFi,Amazon,1,,,1,0,0,0,0,0,0
+N,https://www.gigabyte.com/Motherboard/X570-I-AORUS-PRO-WIFI-rev-10#kf,N,Gigabyte X570I AORUS PRO WIFI,Gigabyte,X570I AORUS PRO WIFI,Amazon,,2,,1,,,,,,
+N,https://www.gigabyte.com/us/Motherboard/Z490I-AORUS-ULTRA-rev-1x#kf,N,Gigabyte Z490I AORUS ULTRA,Gigabyte,Z490I AORUS ULTRA,Amazon,2,,,1,0,0,0,0,0,0
+N,https://www.msi.com/Motherboard/MPG-B650I-EDGE-WIFI,N,MSI MPG B650I EDGE WIFI,MSI,MPG B650I EDGE WIFI,Amazon,,3,,1,0,0,0,0,0,0
+N,https://www.gigabyte.com/Motherboard/B660I-AORUS-PRO-DDR4-rev-1x#kf,N,Gigabyte B660I AORUS PRO DDR4,Gigabyte,B660I AORUS PRO DDR4,Amazon,3,,,1,0,0,0,0,0,0
+N,https://rog.asus.com/us/motherboards/rog-strix/rog-strix-b650e-i-gaming-wifi-model/,N,ASUS ROG STRIX B650E-I GAMING WIFI,ASUS,ROG STRIX B650E-I GAMING WIFI,Amazon,,4,,1,0,0,0,0,0,0
+N,https://www.msi.com/Motherboard/MEG-Z690I-UNIFY,N,MSI MEG Z690I UNIFY,MSI,MEG Z690I UNIFY,Amazon,4,,,1,0,0,0,0,0,0
+N,https://pg.asrock.com/mb/AMD/B850I%20Lightning%20WiFi/index.asp,N,ASRock B850I LIGHTNING WIFI,ASRock,B850I LIGHTNING WIFI,Amazon,,5,,1,0,0,0,0,0,0 
+N,https://www.msi.com/Motherboard/MPG-Z790I-EDGE-WIFI,N,MSI MPG Z790I EDGE WIFI,MSI,MPG Z790I EDGE WIFI,Amazon,5,,,1,0,0,0,0,0,0
+N,https://rog.asus.com/us/motherboards/rog-strix/rog-strix-x570-e-gaming-model/,N,ASUS ROG STRIX X570-E GAMING,ASUS,ROG STRIX X570-E GAMING,Amazon,,1,,0,1,0,0,0,0,0
+N,https://rog.asus.com/us/motherboards/rog-strix/rog-strix-z590-a-gaming-wifi-model/,N,ASUS ROG STRIX Z590-A GAMING WIFI,ASUS,ROG STRIX Z590-A GAMING WIFI,Amazon,1,,,0,1,0,0,0,0,0
+N,https://rog.asus.com/motherboards/rog-strix/rog-strix-x570-e-gaming-wifi-ii-model/,N,ASUS ROG STRIX X570-E GAMING WIFI II,ASUS,ROG STRIX X570-E GAMING WIFI II,Amazon,,2,,0,1,0,0,0,0,0
+N,https://www.gigabyte.com/Motherboard/B660M-AORUS-PRO-AX-DDR4-rev-1x#kf,N,Gigabyte B660M AORUS PRO AX DDR4,Gigabyte,B660M AORUS PRO AX DDR4,Amazon,2,,,0,1,0,0,0,0,0
+N,https://www.gigabyte.com/us/Motherboard/X670-AORUS-ELITE-AX-rev-10-12#kf,N,Gigabyte X670 AORUS ELITE AX,Gigabyte,X670 AORUS ELITE AX,Amazon,,3,,0,1,0,0,0,0,0
+N,https://www.gigabyte.com/Motherboard/Z690-AORUS-ELITE-AX-rev-1x#kf,N,Gigabyte Z690 AORUS ELITE AX,Gigabyte,Z690 AORUS ELITE AX,Amazon,3,,,0,1,0,0,0,0,0
+N,https://www.asrock.com/mb/AMD/X870%20Pro%20RS%20WiFi/index.asp,N,ASRock X870 PRO RS WIFI,ASRock,X870 PRO RS WIFI,Amazon,,4,,0,1,0,0,0,0,0
+N,https://www.gigabyte.com/Motherboard/Z790-AORUS-ELITE-AX-rev-10#kf,N,Gigabyte Z790 AORUS ELITE AX,Gigabyte,Z790 AORUS ELITE AX,4,,,,0,1,0,0,0,0,0
+N,https://www.gigabyte.com/Motherboard/Z790-AORUS-ELITE-AX-rev-1x#kf,N,Gigabyte Z790 AORUS ELITE AX (rev. 1.x),Gigabyte,Z790 AORUS ELITE AX (rev 1.x),Amazon,4.1,,,0,1,0,0,0,0,0
+N,https://www.gigabyte.com/Motherboard/X399-DESIGNARE-EX-rev-10#kf,N,Gigabyte X399 Designare EX,Gigabyte,X399 Designare EX,Amazon,,1,,0,0,1,0,0,0,0
+N,https://www.gigabyte.com/Motherboard/X299-AORUS-Ultra-Gaming-Pro-rev-10#kf,N,Gigabyte X299 Ultra Gaming Pro,Gigabyte,X299 Ultra Gaming Pro,Amazon,1,,,0,0,1,0,0,0,0
+N,https://www.gigabyte.com/Motherboard/TRX40-AORUS-PRO-WIFI-rev-10#kf,N,Gigabyte TRX40 AORUS PRO WIFI,Gigabyte,TRX40 AORUS PRO WIFI,Amazon,,2,,0,0,1,0,0,0,0
+N,https://www.gigabyte.com/Motherboard/TRX40-AORUS-PRO-WIFI-rev-11-12#kf,N,Gigabyte TRX40 AORUS PRO WIFI (rev. 1.1/1.2),Gigabyte,TRX40 AORUS PRO WIFI (rev. 1.1/1.2),Amazon,,2.1,,0,0,1,0,0,0,0
+N,https://www.gigabyte.com/Motherboard/X299-AORUS-Gaming-3-Pro-rev-10#kf,N,Gigabyte X299 AORUS GAMING 3 PRO,Gigabyte,X299 AORUS GAMING 3 PRO,Amazon,2,,,0,0,1,0,0,0,0
+N,https://www.gigabyte.com/Motherboard/X670E-AORUS-XTREME-rev-1x#kf,N,Gigabyte X670E AORUS XTREME,Gigabyte,X670E AORUS XTREME,Amazon,,3,,0,0,1,0,0,0,0
+N,https://www.asus.com/us/motherboards-components/motherboards/prime/prime-x299-deluxe-ii/,N,ASUS PRIME X299-DELUXE II,ASUS,PRIME X299-DELUXE II,Amazon,3,,,0,0,1,0,0,0,0
+N,https://www.asus.com/us/motherboards-components/motherboards/proart/proart-x670e-creator-wifi/,N,ASUS ProArt X670E-CREATOR WIFI,ASUS,ProArt X670E-CREATOR WIFI,Amazon,,4,,0,0,1,0,0,0,0
+N,https://www.gigabyte.com/Motherboard/Z790-AORUS-MASTER-rev-10#kf,N,Gigabyte Z790 AORUS MASTER,Gigabyte,Z790 AORUS MASTER,Amazon,4,,,0,0,1,0,0,0,0
+N,https://www.gigabyte.com/Motherboard/TRX50-AERO-D-rev-11#kf,N,Gigabyte TRX50 AERO D (rev. 1.1),Gigabyte,TRX50 AERO D (rev. 1.1),Amazon,,5,,0,0,1,0,0,0,0
+N,https://www.gigabyte.com/us/Motherboard/TRX40-AORUS-XTREME-rev-10#kf,N,Gigabyte TRX40 AORUS XTREME,Gigabyte,TRX40 AORUS XTREME,Amazon,,1,,0,0,0,1,0,0,0
+N,https://www.gigabyte.com/us/Motherboard/TRX40-AORUS-XTREME-rev-11#kf,N,Gigabyte TRX40 AORUS XTREME (rev. 1.1),Gigabyte,TRX40 AORUS XTREME (rev. 1.1),Amazon,,1.1,,0,0,0,1,0,0,0
+N,https://www.asus.com/us/motherboards-components/motherboards/workstation/pro-ws-wrx80e-sage-se-wifi/,N,ASUS Pro WS WRX80E-SAGE SE WIFI,ASUS,Pro WS WRX80E-SAGE SE WIFI,Amazon,,2,,0,0,0,1,0,0,0
+N,https://www.asrock.com/mb/AMD/WRX90%20WS%20EVO/#Overview,N,ASRock WRX90 WS EVO,ASRock,WRX60 WS EVO,Amazon,,3,,0,0,0,1,0,0,0
+N,https://www.gigabyte.com/Motherboard/TRX50-AI-TOP#kf,N,Gigabyte TRX50 AI TOP,Gigabyte,TRX50 AI TOP,Amazon,,4,,0,0,0,1,0,0,0
+N,https://www.asus.com/us/Commercial-Servers-Workstations/WS-C621E-SAGE/,N,Asus WS C621E SAGE,Asus,WS C621E SAGE,Amazon,1,,,0,0,0,0,1,0,0
+N,https://www.asus.com/motherboards-components/motherboards/prime/prime-b650m-a-ax6/,N,ASUS PRIME B650M-A AX6,ASUS,PRIME B650M-A AX6,Amazon,,1,,0,0,0,0,0,1,0
+N,https://www.asrock.com/mb/Intel/B660M%20Pro%20RS/index.asp,N,ASRock B660M Pro RS,ASRock,B660M Pro RS,Amazon,1,,,0,0,0,0,0,1,0
+N,https://www.asus.com/motherboards-components/motherboards/prime/prime-b650m-a-ax6-ii/,N,ASUS PRIME B650M-A AX6 II,ASUS,PRIME B650M-A AX6 II,Amazon,,2,,0,0,0,0,0,1,0
+N,https://www.gigabyte.com/Motherboard/B850M-GAMING-X-WIFI6E-rev-1x#kf,N,Gigabyte B850M GAMING X WIFI6E,Gigabyte,B850M GAMING X WIFI6E,Amazon,,3,,0,0,0,0,0,1,0
+N,https://www.asrockrack.com/general/productdetail.asp?Model=ALTRAD8UD-1L2T&utm_source=Website&utm_medium=Landing+Page_Ampere_Altra&utm_campaign=Ampere+Launch+&utm_id=Ampere+Launch+#Specifications,N,ASRock ALTRAD8UD-1L2T,ASRock,ALTRAD8UD-1L2T,Amazon,,,1,0,0,0,0,0,0,1
+N,https://www.asrockrack.com/general/productdetail.asp?Model=ALTRAD8UD2-1L2Q#Specifications,N,ASRock ALTRAD8UD2-1L2Q,ASRock,ALTRAD8UD2-1L2Q,Amazon,,,1.1,0,0,0,0,0,0,1
+N,,N,FSP Dagger 600W Power Supply,FSP,SDA600,Amazon,1,1,,1,0,0,0,0,0,0
+N,https://www.fspgroupusa.com/ecommerce/daggerpro650w.html?srsltid=AfmBOoqcu3FGCvJIByeWNH7CAmnznotHK12ilmWiNUEs9aZatVZZw5I8,N,FSP Dagger Pro 650W,FSP,SDA2-650,Amazon,2-5,2-5,,1,0,0,0,0,0,0
+Y,,Y,Custom cables power supply cables for SDA6X0,"Maoye Electrical Co.,LTD",,Amazon,all,all,,1,0,0,0,0,0,0
+N,https://www.evga.com/products/product.aspx?pn=220-G5-0650-X1,N,EVGA SuperNOVA 650 G5 80 Plus Gold,EVGA,220-G5-0650-X1,Amazon,all,all,,0,1,0,0,0,0,0
+N,https://www.evga.com/products/product.aspx?pn=220-G5-0750-X1,N,EVGA SuperNOVA 750 G5 80 Plus Gold,EVGA,220-G5-0750-X1,Amazon,all,all,,0,1,0,0,0,0,0
+N,https://www.evga.com/products/product.aspx?pn=220-G5-1000-X1,N,EVGA SuperNOVA 1000 G5 80 Plus Gold,EVGA,220-G5-1000-X1,Amazon,all,all,,0,1,1,0,0,0,0
+N,https://www.evga.com/Products/Product.aspx?pn=120-G2-1300-XR,N,EVGA 1300W 80 Plus Gold,EVGA,120-G2-1300-XR,Amazon,,,,0,0,1,1,0,0,0
+N,https://www.evga.com/Products/Product.aspx?pn=120-G2-1600-X1,N,EVGA SuperNOVA 1600 G2 80 Plus Gold,EVGA,120-G2-1600-X1,Amazon,,,,0,0,1,1,1,0,0
+N,https://www.xpg.com/us/xpg/pc-components-core-reactor-ii,N,XPG CORE REACTOR II 650W Power Supply Unit,XPG,COREREACTORII650G-BKCUS,Amazon,all,all,all,0,0,0,0,0,1,0
+N,https://www.xpg.com/us/xpg/pc-components-core-reactor-ii,N,XPG CORE REACTOR II 850W Power Supply Unit,XPG,COREREACTORII850G-BKCUS,Amazon,all,all,all,0,1,0,0,0,0,1
+N,https://www.xpg.com/us/xpg/pc-components-core-reactor-ii,N,XPG CORE REACTOR II 1000W Power Supply Unit,XPG,COREREACTORII1000G-BKCUS,Amazon,all,all,all,0,1,1,0,0,0,1
+N,https://www.thermaltake.com/toughpower-gf3-1650w-gold-tt-premium-edition.html,N,Thermaltake Toughpower GF3 1650W Gold,Thermaltake,PS-TPD-1650FNFAGx-4,Amazon,all,all,,0,0,0,1,0,0,0
+N,https://www.arctic.ac/us_en/f14-pwm.html,N,Arctic Fan F14 PWM,Arctic,F14-PWM,Amazon,1,1,,1,0,1,0,4,0,0
+N,https://www.arctic.ac/us_en/f12-pwm-pst.html,N,Arctic Fan F12 PWM PST,Arctic,F12 PWM PST,Amazon,1,1,,0,0,2,0,0,0,0
+N,https://www.bequiet.com/en/casefans/3704,N,be quiet! SILENT WINGS 4 140mm PWM HS,be quiet!,BL097,Amazon,all,all,all,0,1,1,2,2,1,1
+N,https://www.bequiet.com/en/casefans/3700,N,be quiet! SILENT WINGS 4 120mm PWM HS,be quiet!,BL094,Amazon,all,all,all,0,1,1,2,2,1,0
+System76,,Y,140mm fan spacer,Laird Plastics,,,,,,1,1,1,1,4,,
+System76,,Y,120mm fan spacer,Laird Plastics,,,,,,0,0,2,2,0,,
+System76,,Y,Thelio acrylic wireless signal window,Laird Plastics,,,,,,1,1,1,1,,,
+System76,,Y,Signal wiring Thelio,"Maoye Electrical Co.,LTD",,Hand made wires with wire and connectors from Amazon,,,,1,1,0,0,0,,
+System76,,Y,Signal wiring Thelio Major,"Maoye Electrical Co.,LTD",,Hand made wires with wire and connectors from Amazon,,,,0,0,1,1,0,,
+System76,,Y,Signal wiring Thelio Massive,"Maoye Electrical Co.,LTD",,Hand made wires with wire and connectors from Amazon,,,,0,0,0,0,1,,
+System76,,Y,Thelio Major molex to dual floppy splitter (defined in Thelio Major signal wiring),"Maoye Electrical Co.,LTD",,Hand made wires with wire and connectors from Amazon,,,,0,0,1,1,0,,
