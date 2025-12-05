@@ -2,7 +2,7 @@
 
 ## OSHWA Numbers
 
-- Thelio Mira: US00
+- Thelio Mira: US002790 
 
 | Part Number | Part Name                   |
 |-------------|-----------------------------|
