@@ -2,7 +2,7 @@
 
 ## OSHWA Numbers
 
-- Thelio Prime N2: TBD
+- Thelio Prime N2: US002861
 
 ## Parts Index
 
